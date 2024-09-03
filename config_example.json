@@ -1,0 +1,4 @@
+{
+    "input_dir": "/path/to/inputs",
+    "output_dir": "/path/to/outputs"
+}
